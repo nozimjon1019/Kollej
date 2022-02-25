@@ -257,7 +257,7 @@ body {
 }
 
 nav {
-  background: url("./yangiRasimlar/kitob.jpg") center center no-repeat;
+  background: url("./vidio/khm.png") center center no-repeat;
   background-size: cover;
   width: 100%;
   height: 700px;
@@ -279,7 +279,7 @@ nav a {
 .soya {
   width: 100%;
   height: 110vh;
-  background: rgba(0, 0, 0, 0.479);
+  background: rgba(0, 0, 0, 0.609);
   position: absolute;
 }
 .hmmm {
@@ -1078,28 +1078,28 @@ span {
 .s10-img1 {
   width: 100%;
   height: 400px;
-  background: url("./icon/kompyuter.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/kompyuter.jpg") center center/cover no-repeat;
   position: relative;
 }
 
 .s10-img2 {
   width: 100%;
   height: 400px;
-  background: url("./icon/bugalteriya.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/bugalteriya.jpg") center center/cover no-repeat;
   position: relative;
 }
 
 .s10-img3 {
   width: 100%;
   height: 400px;
-  background: url("./icon/chevar.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/chevar.jpg") center center/cover no-repeat;
   position: relative;
 }
 
 .s10-img4 {
   width: 100%;
   height: 400px;
-  background: url("./icon/kompyuter.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/eliktirik.jpg") center center/cover no-repeat;
 
   position: relative;
 }
@@ -1107,7 +1107,7 @@ span {
 .s10-img5 {
   width: 100%;
   height: 400px;
-  background: url("./icon/bugalteriya.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/aftomabil.jpg") center center/cover no-repeat;
 
   position: relative;
 }
@@ -1115,7 +1115,7 @@ span {
 .s10-img6 {
   width: 100%;
   height: 400px;
-  background: url("./icon/chevar.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/elektro.jpg") center center/cover no-repeat;
 
   position: relative;
 }
@@ -1123,7 +1123,7 @@ span {
 .s10-img7 {
   width: 100%;
   height: 400px;
-  background: url("./icon/kompyuter.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/bugal1.jpg") center center/cover no-repeat;
 
   position: relative;
 }
@@ -1131,7 +1131,7 @@ span {
 .s10-img8 {
   width: 100%;
   height: 400px;
-  background: url("./icon/chilangar.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/bugal2.jpg") center center/cover no-repeat;
 
   position: relative;
 }
@@ -1250,21 +1250,21 @@ span {
 .s10-img10 {
   width: 100%;
   height: 400px;
-  background: url(".//img//faol1.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/faol1.jpg") center center/cover no-repeat;
   position: relative;
 }
 
 .s10-img11 {
   width: 100%;
   height: 400px;
-  background: url(".//img/faol2.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/faol2.jpg") center center/cover no-repeat;
   position: relative;
 }
 
 .s10-img12 {
   width: 100%;
   height: 400px;
-  background: url(".//img/faol3.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/faol3.jpg") center center/cover no-repeat;
   position: relative;
 }
 
@@ -1272,7 +1272,7 @@ span {
   /* padding-top: 40px; */
   width: 100%;
   height: 400px;
-  background: url(".//img/faol4.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/faol4.jpg") center center/cover no-repeat;
   position: relative;
 }
 
@@ -1328,7 +1328,7 @@ span {
 }
 
 .s13 {
-  background: url("./icon/11111111111.jpg") center center/cover no-repeat;
+  background: url("./vidio/khm.png") center center/cover no-repeat;
   width: 100%;
   height: 700px;
   display: grid;
@@ -1352,16 +1352,18 @@ span {
 
 .s13-h2 {
   font-size: 50px;
+  color: gold;
 }
 
 .a-1 button {
   width: 150px;
   padding: 10px;
   margin: 0px 10px;
-  background: rgba(0, 0, 0, 0.748);
+  background: gold;
   border-radius: 5px;
   border: none;
   color: rgba(255, 255, 255, 0.639);
+  border: 1px solid gold;
 }
 
 .a-1 button:hover {
@@ -1381,7 +1383,7 @@ span {
 .a-2 button {
   width: 150px;
   padding: 10px;
-  background: rgba(0, 0, 0, 0.748);
+  background: gold;
   border-radius: 5px;
   border: none;
   color: rgba(255, 255, 255, 0.639);
@@ -1426,19 +1428,19 @@ span {
 }
 
 .s14-d-div1 {
-  background: url("./icon/11111111111.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/1.jpg") center center/cover no-repeat;
 }
 
 .s14-d-div2 {
-  background: url("./icon/2222222222.png") center center/cover no-repeat;
+  background: url("./yangiRasimlar/3.jpg") center center/cover no-repeat;
 }
 
 .s14-d-div3 {
-  background: url("./icon/5555555555.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/5.jpg") center center/cover no-repeat;
 }
 
 .s14-d-div4 {
-  background: url("./icon/444444444444.jpg") center center/cover no-repeat;
+  background: url("./yangiRasimlar/4.jpg") center center/cover no-repeat;
 }
 
 .s14-h5 {
